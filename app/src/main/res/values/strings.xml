@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExercisePAM1</string>
+    <string name="tlogin">LOGIN</string>
+    <string name="tdata">Data Kontak</string>
+    <string name="datakontak">Data kontak</string>
+    <string name="namaitem">Nama Item</string>
+    <string name="nama">Nama</string>
+    <string name="notel">Nomor Telepon</string>
+    <string name="editdata">Edit Data</string>
+    <string name="lihatdata">Lihat Data</string>
+    <string name="listkontak">List Kontak</string>
+</resources>
